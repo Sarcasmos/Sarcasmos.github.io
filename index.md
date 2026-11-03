@@ -7,7 +7,7 @@ Welcome to my mechanical engineering portfolio. I'm a student passionate about C
   * Generated 2D manufacturing drawings and individual part models, complete with standardized title blocks.
   * *Software used:* AutoCAD
 
-* **[In Progress] Crank-Powered Dragon Automata Mechanism (Fabrication and Design Essentials Final Project)**
+* **[In Progress] Crank-Powered Dragon Automata Mechanism (Personal Project)**
   * Developing a complex mechanical automata featuring a custom gear and linkage system.
   * Planning a hybrid manufacturing approach utilizing 3D printed components and laser-cut wooden structural/gear elements.
   * *Software used:* SolidWorks / Hand Sketching
